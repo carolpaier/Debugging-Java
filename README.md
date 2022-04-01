@@ -38,3 +38,7 @@ Toda invocação de método é empilhada em uma estrutura de dados que isola a �
 
 ### Stack Trace:
 É a matriz onde encontramos a pilha de excecução da exceção. Em outras palavras, podemos dizer que o rastreamento da pilha busca (rastreio) para a próxima linha onde a exceção pode surgir.
+
+<div align="center">
+    <img src=dio.png height="35%" width="35%">
+</div>
