@@ -1,6 +1,6 @@
 # Debugging-Java
 Curso Debugging Java - Bootcamp GFT Quality Assurance #1
-Instrutra: [Camila Cavalcante](https://github.com/cami-la) 
+Instrutora: [Camila Cavalcante](https://github.com/cami-la) 
 
 ## Visão Geral
 
